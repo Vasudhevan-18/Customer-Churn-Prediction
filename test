@@ -1,0 +1,58 @@
+#### import pandas as pd
+import numpy as np
+from sklearn.preprocessing import LabelEncoder
+import joblib
+
+# Load the saved model
+model_filename = 'rf_churn_model_improved.pkl'
+loaded_model = joblib.load(model_filename)
+print(f"Model loaded from '{model_filename}'")
+
+# Function to preprocess input data (matches training preprocessing)
+def preprocess_input(df_input):
+    le = LabelEncoder()
+    categorical_cols = ['Contract_Type', 'Payment_Method', 'Tech_Support', 'Internet_Service']
+    
+    # Copy input to avoid modifying original
+    df_processed = df_input.copy()
+    
+    # Encode categorical columns
+    for col in categorical_cols:
+        # Fit LabelEncoder on the possible categories (same as training)
+        le.fit(['Month-to-month', 'One year', 'Two year'] if col == 'Contract_Type' else 
+               ['Electronic check', 'Mailed check', 'Bank transfer', 'Credit card'] if col == 'Payment_Method' else 
+               ['Yes', 'No'] if col == 'Tech_Support' else 
+               ['DSL', 'Fiber optic', 'No'])
+        df_processed[col] = le.transform(df_processed[col])
+    
+    return df_processed
+
+# Function to predict for a single customer
+def predict_single_customer():
+    print("\nEnter details for a single customer:")
+    customer_data = {
+        'Age': int(input("Age (18-80): ")),
+        'Tenure_Months': int(input("Tenure in months (1-60): ")),
+        'Monthly_Charges': float(input("Monthly Charges (20-150): ")),
+        'Total_Charges': float(input("Total Charges (e.g., Tenure * Monthly Charges): ")),
+        'Contract_Type': input("Contract Type (Month-to-month, One year, Two year): "),
+        'Payment_Method': input("Payment Method (Electronic check, Mailed check, Bank transfer, Credit card): "),
+        'Tech_Support': input("Tech Support (Yes/No): "),
+        'Internet_Service': input("Internet Service (DSL, Fiber optic, No): ")
+    }
+    
+    # Convert to DataFrame
+    single_df = pd.DataFrame([customer_data])
+    
+    # Preprocess the data
+    X_single = preprocess_input(single_df)
+    
+    # Make prediction
+    prediction = loaded_model.predict(X_single)[0]
+    result = 'Churn' if prediction == 1 else 'Not Churn'
+    
+    print(f"\nPrediction for this customer: {result}")
+    return result
+
+# Execute the single customer prediction
+predict_single_customer()
