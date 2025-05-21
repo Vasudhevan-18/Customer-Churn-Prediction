@@ -1,0 +1,1001 @@
+CustomerID	Age	Tenure_Months	Monthly_Charges	Total_Charges	Contract_Type	Payment_Method	Tech_Support	Internet_Service	Churn
+CUST00522	42	47	86.07	4308.07766	One year	Electronic check	No	DSL	No
+CUST00738	53	24	57.05	1420.903868	Month-to-month	Credit card	No	No	No
+CUST00741	78	36	42.28	1537.890259	Month-to-month	Mailed check	Yes	DSL	No
+CUST00661	27	39	72.38	2677.071139	One year	Bank transfer	No	No	No
+CUST00412	78	2	138.78	273.4519743	One year	Mailed check	No	No	Yes
+CUST00679	41	31	85.9	2912.010474	Month-to-month	Electronic check	Yes	No	No
+CUST00627	72	25	25.05	646.0101143	Two year	Mailed check	Yes	No	No
+CUST00514	65	36	82.14	2995.123943	One year	Mailed check	Yes	Fiber optic	No
+CUST00860	62	38	85.73	3539.832023	Month-to-month	Electronic check	Yes	No	No
+CUST00137	18	10	90.07	916.2842322	One year	Credit card	No	No	Yes
+CUST00812	62	45	56.92	2574.761553	Two year	Bank transfer	Yes	No	No
+CUST00077	24	2	110.11	231.6410873	Month-to-month	Mailed check	No	DSL	Yes
+CUST00637	31	51	98.66	5245.672218	Two year	Electronic check	No	DSL	No
+CUST00974	30	25	82.94	1946.253455	Month-to-month	Electronic check	No	Fiber optic	No
+CUST00939	29	55	81.89	4478.104781	One year	Electronic check	Yes	No	No
+CUST00900	50	57	79.83	4525.297349	Two year	Mailed check	No	No	No
+CUST00281	73	16	143.26	2236.334221	One year	Mailed check	No	Fiber optic	Yes
+CUST00884	37	30	32.05	964.8255366	Two year	Electronic check	No	No	No
+CUST00762	29	52	37.38	1909.980327	Month-to-month	Mailed check	Yes	DSL	No
+CUST00320	50	16	139.21	2093.426834	Two year	Credit card	No	DSL	Yes
+CUST00550	79	43	57.12	2413.111614	One year	Electronic check	Yes	DSL	No
+CUST00175	54	19	108.07	1877.678685	Month-to-month	Electronic check	No	No	Yes
+CUST00372	54	7	133.42	948.0958897	One year	Mailed check	Yes	Fiber optic	Yes
+CUST00528	74	42	41.12	1849.19511	One year	Electronic check	Yes	DSL	No
+CUST00211	49	12	137.62	1725.849621	Month-to-month	Credit card	No	DSL	Yes
+CUST00236	56	15	142.22	2073.735721	One year	Electronic check	No	Fiber optic	Yes
+CUST00102	79	8	118.12	866.9197613	Two year	Bank transfer	No	DSL	Yes
+CUST00987	47	34	53.22	1701.689059	One year	Bank transfer	No	DSL	No
+CUST00903	23	46	91.08	4227.797994	Two year	Mailed check	No	No	No
+CUST00948	70	30	85.95	2427.429338	One year	Bank transfer	No	DSL	No
+CUST00347	28	6	94.31	570.836525	One year	Mailed check	No	DSL	Yes
+CUST00140	41	10	97.87	926.1631931	One year	Mailed check	No	Fiber optic	Yes
+CUST00622	78	36	70.4	2711.262531	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00500	64	3	100.7	295.8931424	One year	Electronic check	No	DSL	Yes
+CUST00371	22	19	121.57	2192.28304	Month-to-month	Mailed check	Yes	DSL	Yes
+CUST00199	49	17	82.3	1486.495112	Two year	Credit card	No	Fiber optic	Yes
+CUST00688	41	33	88.65	2833.49665	Month-to-month	Credit card	Yes	DSL	No
+CUST00585	30	46	82.7	3508.604292	One year	Bank transfer	Yes	Fiber optic	No
+CUST00902	70	37	54.32	2038.142362	Two year	Electronic check	Yes	No	No
+CUST00060	26	7	124.52	885.8589246	Month-to-month	Mailed check	No	Fiber optic	Yes
+CUST00329	77	4	105.5	440.120315	Two year	Mailed check	Yes	Fiber optic	Yes
+CUST00097	35	14	100.67	1336.154093	Two year	Electronic check	No	No	Yes
+CUST00313	69	15	141.56	2099.520812	One year	Mailed check	No	Fiber optic	Yes
+CUST00975	63	47	36.09	1622.399187	One year	Mailed check	Yes	Fiber optic	No
+CUST00300	49	8	112.2	822.3728147	Month-to-month	Credit card	No	Fiber optic	Yes
+CUST00278	66	15	86.65	1397.650764	One year	Credit card	No	DSL	Yes
+CUST00925	58	23	61.14	1470.588259	Two year	Credit card	Yes	No	No
+CUST00602	40	26	78.9	1969.944264	Month-to-month	Electronic check	Yes	DSL	No
+CUST00440	68	14	137.87	1968.541553	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00838	30	54	54.91	2787.981062	One year	Electronic check	Yes	No	No
+CUST00571	22	28	73.34	2213.791742	Two year	Electronic check	Yes	Fiber optic	No
+CUST00880	67	27	27.55	686.5596167	One year	Mailed check	Yes	DSL	No
+CUST00262	71	9	83.33	675.5485488	One year	Electronic check	No	No	Yes
+CUST00579	64	36	79.84	2875.394408	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00024	41	8	130.87	1064.366301	One year	Bank transfer	No	No	Yes
+CUST00031	50	17	134.17	2316.912242	Two year	Electronic check	No	Fiber optic	Yes
+CUST00618	62	36	85.02	2788.017149	One year	Electronic check	Yes	DSL	No
+CUST00011	36	2	104.68	201.5736423	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00222	70	3	137.74	413.1537978	One year	Credit card	No	DSL	Yes
+CUST00821	52	52	76.55	3754.963021	Two year	Electronic check	Yes	Fiber optic	No
+CUST00297	70	8	116.1	998.0189845	One year	Mailed check	No	No	Yes
+CUST00055	20	12	112.43	1237.748874	One year	Electronic check	Yes	No	Yes
+CUST00543	19	51	97.38	4953.849269	One year	Credit card	Yes	Fiber optic	No
+CUST00210	30	1	83.18	86.36439753	One year	Credit card	No	No	Yes
+CUST00605	70	27	86.13	2214.69996	One year	Credit card	Yes	DSL	No
+CUST00693	50	38	92.25	3592.605181	Two year	Mailed check	No	No	No
+CUST00663	22	57	94.69	5752.89007	One year	Credit card	No	No	No
+CUST00867	78	22	84.11	1735.818669	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00071	70	10	100.3	1086.694451	One year	Mailed check	No	Fiber optic	Yes
+CUST00544	49	24	73.94	1793.568566	One year	Bank transfer	Yes	Fiber optic	No
+CUST00108	25	3	145.17	418.022706	Month-to-month	Electronic check	Yes	Fiber optic	Yes
+CUST00494	20	6	107.43	635.6665254	One year	Credit card	No	No	Yes
+CUST00591	34	32	20.46	630.127654	Two year	Mailed check	No	Fiber optic	No
+CUST00742	74	50	57.27	2992.421161	Two year	Mailed check	Yes	Fiber optic	No
+CUST00293	18	7	118.27	876.9508712	Month-to-month	Credit card	No	No	Yes
+CUST00290	54	18	117.24	2250.840888	One year	Mailed check	No	DSL	Yes
+CUST00653	56	35	65.69	2522.520814	One year	Mailed check	No	Fiber optic	No
+CUST00040	76	11	121.33	1412.381351	Month-to-month	Credit card	No	No	Yes
+CUST00590	36	51	44.32	2306.152089	Month-to-month	Credit card	No	No	No
+CUST00308	76	19	84.29	1550.01194	Month-to-month	Mailed check	No	DSL	Yes
+CUST00680	33	41	45.45	1880.070278	One year	Mailed check	Yes	DSL	No
+CUST00067	67	5	105.35	478.401532	Two year	Mailed check	No	DSL	Yes
+CUST00276	19	19	130.62	2603.300395	Two year	Mailed check	No	No	Yes
+CUST00068	75	11	94.04	1023.258851	One year	Mailed check	No	DSL	Yes
+CUST00319	33	12	94.25	1022.429255	Month-to-month	Electronic check	Yes	Fiber optic	Yes
+CUST00549	75	48	96.89	4243.788457	Month-to-month	Mailed check	No	DSL	No
+CUST00999	64	41	91.34	3660.653732	Month-to-month	Mailed check	No	DSL	No
+CUST00715	67	22	87.93	1966.735118	One year	Bank transfer	Yes	No	No
+CUST00754	66	29	52.48	1511.024255	Month-to-month	Mailed check	Yes	No	No
+CUST00328	37	10	80.71	826.3419609	One year	Bank transfer	No	No	Yes
+CUST00383	37	8	110.62	881.4722415	One year	Credit card	Yes	DSL	Yes
+CUST00452	22	9	141.79	1317.380379	One year	Mailed check	No	No	Yes
+CUST00523	41	40	21.1	796.5884797	Month-to-month	Mailed check	Yes	DSL	No
+CUST00219	62	4	83.63	308.6176606	Month-to-month	Electronic check	Yes	DSL	Yes
+CUST00788	26	35	26.42	942.5344956	Two year	Mailed check	Yes	No	No
+CUST00437	55	5	93.38	465.4703071	One year	Bank transfer	No	Fiber optic	Yes
+CUST00765	30	31	44.98	1262.434744	One year	Electronic check	Yes	DSL	No
+CUST00089	19	8	101.71	794.2301001	One year	Electronic check	No	DSL	Yes
+CUST00064	42	9	131.22	1087.948439	Month-to-month	Mailed check	No	No	Yes
+CUST00827	64	21	21.26	449.2599142	One year	Mailed check	No	DSL	No
+CUST00717	40	43	21.37	899.7558135	One year	Mailed check	Yes	Fiber optic	No
+CUST00352	40	15	124.84	1914.977654	Month-to-month	Bank transfer	No	No	Yes
+CUST00937	74	54	93.33	5347.856035	Month-to-month	Mailed check	No	DSL	No
+CUST00257	59	15	109.12	1571.21954	One year	Mailed check	No	DSL	Yes
+CUST00636	46	49	76.49	4094.402661	Month-to-month	Electronic check	Yes	Fiber optic	No
+CUST00645	69	49	44.72	2206.897034	Month-to-month	Bank transfer	Yes	No	No
+CUST00555	39	54	30.61	1692.045519	One year	Credit card	Yes	DSL	No
+CUST00960	54	38	60.93	2399.003595	One year	Credit card	No	No	No
+CUST00169	57	16	133.13	2201.110299	Month-to-month	Mailed check	Yes	Fiber optic	Yes
+CUST00918	53	27	20.43	552.8203143	Month-to-month	Mailed check	Yes	No	No
+CUST00529	53	45	95.07	4217.19859	Two year	Credit card	No	No	No
+CUST00824	60	59	53.19	2858.14482	Month-to-month	Credit card	No	Fiber optic	No
+CUST00986	73	26	52.19	1227.239833	Two year	Electronic check	Yes	No	No
+CUST00817	31	49	51.25	2439.91101	One year	Mailed check	No	Fiber optic	No
+CUST00087	57	14	122.67	1660.246508	One year	Credit card	Yes	DSL	Yes
+CUST00433	72	8	142.72	1116.114964	One year	Bank transfer	No	No	Yes
+CUST00185	44	18	137.26	2291.984709	Two year	Electronic check	No	No	Yes
+CUST00979	35	26	25.55	695.9430364	One year	Electronic check	Yes	DSL	No
+CUST00535	33	22	71.07	1675.165628	One year	Credit card	No	No	No
+CUST00295	79	10	97.7	1062.72484	One year	Bank transfer	No	Fiber optic	Yes
+CUST00893	45	20	78.64	1570.397486	One year	Electronic check	Yes	DSL	No
+CUST00426	34	6	99	617.8628451	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00714	68	55	74.09	4364.72061	Month-to-month	Credit card	Yes	Fiber optic	No
+CUST00261	76	12	88.77	1047.832085	Two year	Bank transfer	No	Fiber optic	Yes
+CUST00238	50	2	103.59	199.2828286	One year	Mailed check	No	DSL	Yes
+CUST00560	32	44	31.07	1486.487481	One year	Mailed check	Yes	Fiber optic	No
+CUST00584	33	56	66.31	3725.002536	One year	Bank transfer	Yes	Fiber optic	No
+CUST00446	38	7	149.97	1049.213432	Two year	Electronic check	Yes	No	Yes
+CUST00868	61	20	65.56	1226.867837	One year	Bank transfer	Yes	No	No
+CUST00801	29	34	89.47	2803.583078	One year	Bank transfer	Yes	No	No
+CUST00600	70	56	50.33	3011.32427	Two year	Electronic check	Yes	Fiber optic	No
+CUST00850	36	32	49.72	1627.35809	Two year	Mailed check	Yes	No	No
+CUST00266	58	16	108.4	1673.982032	Two year	Mailed check	No	No	Yes
+CUST00996	18	59	69.48	3846.585622	One year	Electronic check	Yes	No	No
+CUST00530	62	27	70.65	1928.722767	One year	Bank transfer	Yes	No	No
+CUST00056	54	3	95.43	291.0950507	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00121	41	13	133.37	1632.206515	One year	Electronic check	No	No	Yes
+CUST00216	45	3	117.97	378.7832016	One year	Credit card	No	DSL	Yes
+CUST00026	47	18	90.47	1493.05823	One year	Electronic check	No	No	Yes
+CUST00073	37	11	106.65	1139.385121	Two year	Bank transfer	No	DSL	Yes
+CUST00045	32	8	109.01	903.5419279	One year	Credit card	Yes	DSL	Yes
+CUST00248	56	6	132.77	760.6319528	Two year	Electronic check	No	DSL	Yes
+CUST00722	43	24	57.54	1471.461267	Month-to-month	Electronic check	Yes	DSL	No
+CUST00282	34	1	81.45	85.3574469	Two year	Credit card	No	No	Yes
+CUST00894	79	28	55.44	1642.051188	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00915	28	20	59.53	1099.901648	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00811	56	55	88.88	4536.970116	Two year	Electronic check	Yes	No	No
+CUST00245	30	1	98.83	94.6094399	Two year	Mailed check	Yes	Fiber optic	Yes
+CUST00823	46	54	56.89	3083.166827	Month-to-month	Electronic check	No	No	No
+CUST00322	77	8	116.23	975.9630538	Two year	Bank transfer	No	No	Yes
+CUST00644	79	21	95.19	2133.534377	Two year	Electronic check	No	Fiber optic	No
+CUST00159	51	5	98.82	514.2924159	One year	Electronic check	No	DSL	Yes
+CUST00978	23	59	60.32	3863.944974	Two year	Bank transfer	Yes	DSL	No
+CUST00430	76	16	123.99	2078.565785	One year	Bank transfer	No	DSL	Yes
+CUST00942	33	42	95.94	3873.352065	Month-to-month	Bank transfer	No	No	No
+CUST00463	47	11	113.73	1192.251928	One year	Bank transfer	No	DSL	Yes
+CUST00310	55	5	105.32	547.2629889	Month-to-month	Credit card	No	No	Yes
+CUST00698	54	28	86.63	2276.642913	One year	Electronic check	Yes	No	No
+CUST00061	56	4	146.44	538.0457255	Month-to-month	Mailed check	No	No	Yes
+CUST00885	45	53	48.99	2613.203146	Month-to-month	Mailed check	Yes	No	No
+CUST00596	72	33	89.09	3129.093313	Two year	Electronic check	Yes	Fiber optic	No
+CUST00768	52	23	28.81	609.802465	One year	Mailed check	No	No	No
+CUST00650	43	49	94	4874.890287	Two year	Bank transfer	No	Fiber optic	No
+CUST00651	65	50	70.53	3746.251735	One year	Credit card	Yes	No	No
+CUST00866	36	57	24.35	1383.02944	Two year	Electronic check	Yes	DSL	No
+CUST00669	75	30	71.54	1956.179877	One year	Electronic check	Yes	Fiber optic	No
+CUST00299	43	6	124.25	696.9813468	Two year	Credit card	No	DSL	Yes
+CUST00690	67	54	97.94	5508.165557	Month-to-month	Electronic check	Yes	No	No
+CUST00315	23	14	89.1	1300.234362	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00311	41	19	119.21	2445.444143	Month-to-month	Electronic check	Yes	Fiber optic	Yes
+CUST00362	74	9	134.65	1231.890641	Month-to-month	Bank transfer	No	DSL	Yes
+CUST00480	50	12	129.59	1438.171377	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00111	77	11	92.05	935.8827325	Month-to-month	Mailed check	No	DSL	Yes
+CUST00990	62	27	25.58	721.2054548	Month-to-month	Credit card	Yes	No	No
+CUST00487	20	14	148.07	1941.878387	Month-to-month	Credit card	No	No	Yes
+CUST00364	77	16	111.42	1721.53188	Two year	Credit card	No	DSL	Yes
+CUST00255	50	1	91.13	90.89692604	One year	Credit card	Yes	Fiber optic	Yes
+CUST00260	32	13	92.61	1089.500036	Two year	Electronic check	Yes	Fiber optic	Yes
+CUST00803	69	22	64.38	1345.207463	Month-to-month	Mailed check	Yes	DSL	No
+CUST00678	33	33	79.82	2585.53514	Two year	Electronic check	Yes	Fiber optic	No
+CUST00495	57	13	86.88	1079.662489	Two year	Mailed check	No	Fiber optic	Yes
+CUST00671	75	32	84.82	2516.84436	Month-to-month	Mailed check	No	No	No
+CUST00378	52	2	136.25	284.926668	One year	Mailed check	No	No	Yes
+CUST00527	24	51	53.11	2878.248974	Month-to-month	Credit card	Yes	Fiber optic	No
+CUST00846	22	53	36.33	1832.095639	Two year	Mailed check	Yes	Fiber optic	No
+CUST00138	61	4	88.54	373.5976816	One year	Mailed check	No	Fiber optic	Yes
+CUST00356	52	6	88.76	520.3700813	Month-to-month	Bank transfer	No	DSL	Yes
+CUST00366	19	5	139.53	698.5828684	Month-to-month	Mailed check	No	DSL	Yes
+CUST00943	25	38	23.39	952.1041751	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00750	52	57	66.38	3972.80795	Month-to-month	Mailed check	No	No	No
+CUST00949	25	35	56.23	2088.147044	One year	Electronic check	Yes	Fiber optic	No
+CUST00830	27	21	95.9	1867.628496	Two year	Bank transfer	Yes	Fiber optic	No
+CUST00657	47	59	24.85	1339.978827	One year	Mailed check	Yes	No	No
+CUST00200	21	3	104.12	336.9367802	Two year	Electronic check	Yes	No	Yes
+CUST00214	68	1	82.16	80.31689272	Two year	Mailed check	No	No	Yes
+CUST00409	71	4	83.63	320.328302	Two year	Credit card	No	DSL	Yes
+CUST00333	43	2	89.95	187.9845712	Two year	Electronic check	No	DSL	Yes
+CUST00209	53	5	94.94	506.6392967	Two year	Mailed check	Yes	Fiber optic	Yes
+CUST00614	71	36	74.83	2889.180709	One year	Mailed check	No	No	No
+CUST00079	78	3	126.56	365.7075589	Two year	Credit card	No	No	Yes
+CUST00030	38	9	91.01	876.7887295	Two year	Bank transfer	Yes	DSL	Yes
+CUST00536	31	53	22	1058.945796	Two year	Mailed check	Yes	DSL	No
+CUST00696	68	35	33.71	1073.583622	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00558	59	57	56.29	3287.793009	Two year	Credit card	Yes	Fiber optic	No
+CUST00837	63	21	56.39	1080.716986	One year	Bank transfer	Yes	DSL	No
+CUST00597	43	21	74.86	1516.915018	One year	Electronic check	Yes	DSL	No
+CUST00166	54	6	88.32	548.2293704	Month-to-month	Credit card	No	Fiber optic	Yes
+CUST00919	52	45	92.82	4040.95602	One year	Mailed check	Yes	DSL	No
+CUST00496	63	18	133.53	2249.521052	Two year	Electronic check	No	No	Yes
+CUST00825	28	32	71.12	2176.3178	One year	Mailed check	Yes	No	No
+CUST00066	31	6	126.97	755.3560079	Month-to-month	Mailed check	No	No	Yes
+CUST00142	68	19	110.47	2088.597327	Two year	Mailed check	No	DSL	Yes
+CUST00926	66	50	96.28	5086.472623	Two year	Bank transfer	Yes	No	No
+CUST00828	29	53	90.53	5038.141542	Two year	Electronic check	No	Fiber optic	No
+CUST00656	79	58	66.76	3838.639017	One year	Credit card	Yes	DSL	No
+CUST00332	36	12	118.45	1519.666314	One year	Bank transfer	No	Fiber optic	Yes
+CUST00665	51	22	86.7	1760.239184	One year	Bank transfer	No	Fiber optic	No
+CUST00250	25	11	101.84	1065.427407	Two year	Mailed check	No	Fiber optic	Yes
+CUST00908	62	27	71.41	2054.542316	Two year	Credit card	Yes	DSL	No
+CUST00709	29	42	26.28	1076.82694	Two year	Mailed check	No	Fiber optic	No
+CUST00306	28	2	113.78	249.4595351	Month-to-month	Credit card	No	Fiber optic	Yes
+CUST00735	28	33	79.25	2597.598779	One year	Mailed check	No	Fiber optic	No
+CUST00976	52	46	27.59	1343.241435	Month-to-month	Mailed check	Yes	DSL	No
+CUST00050	68	15	115.47	1698.208182	Two year	Electronic check	No	Fiber optic	Yes
+CUST00897	66	48	67.53	3192.788267	Two year	Mailed check	No	Fiber optic	No
+CUST00003	46	12	107.11	1255.213473	One year	Mailed check	No	DSL	Yes
+CUST00545	40	58	76.21	4613.850735	One year	Mailed check	Yes	DSL	No
+CUST00351	67	12	143.46	1737.880598	Two year	Mailed check	No	Fiber optic	Yes
+CUST00905	61	58	25.32	1598.902957	One year	Credit card	No	Fiber optic	No
+CUST00537	29	20	38.46	730.8769663	Month-to-month	Mailed check	Yes	No	No
+CUST00345	57	9	81.12	671.7557679	Month-to-month	Electronic check	No	DSL	Yes
+CUST00995	71	36	93.25	3285.335761	Two year	Bank transfer	Yes	Fiber optic	No
+CUST00482	78	2	134.75	275.7908149	Month-to-month	Mailed check	No	DSL	Yes
+CUST00576	49	49	69.31	3641.258348	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00034	39	3	88.71	257.9436755	Two year	Bank transfer	No	DSL	Yes
+CUST00032	29	12	135.83	1680.093251	One year	Electronic check	No	DSL	Yes
+CUST00232	75	16	123.11	1910.745471	Month-to-month	Mailed check	No	Fiber optic	Yes
+CUST00964	71	32	39.7	1300.183152	Month-to-month	Credit card	Yes	Fiber optic	No
+CUST00193	68	1	139.03	149.7299698	Two year	Electronic check	No	No	Yes
+CUST00334	20	3	86.83	246.4942704	One year	Mailed check	No	No	Yes
+CUST00004	32	2	119.13	233.6969227	Two year	Credit card	No	No	Yes
+CUST00205	62	9	115.08	1137.896926	Month-to-month	Mailed check	No	DSL	Yes
+CUST00515	56	40	75.25	3231.871331	Month-to-month	Bank transfer	No	Fiber optic	No
+CUST00800	52	38	67.74	2607.39815	Month-to-month	Electronic check	Yes	No	No
+CUST00307	73	19	129.43	2467.348015	Month-to-month	Mailed check	No	No	Yes
+CUST00110	40	15	117.4	1685.136255	One year	Mailed check	No	Fiber optic	Yes
+CUST00431	68	18	117.85	2128.601272	Month-to-month	Mailed check	No	No	Yes
+CUST00078	61	11	110.07	1295.083543	Two year	Mailed check	No	DSL	Yes
+CUST00085	53	16	101.62	1686.135789	Month-to-month	Mailed check	No	No	Yes
+CUST00287	45	17	113.76	1852.712389	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00083	31	5	88.29	415.0922496	Month-to-month	Mailed check	No	DSL	Yes
+CUST00992	72	38	60.13	2177.643119	One year	Electronic check	No	DSL	No
+CUST00790	45	44	98.09	4030.898785	One year	Electronic check	Yes	No	No
+CUST00895	74	41	74.68	2814.260067	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00399	65	12	147.31	1739.13108	Two year	Electronic check	No	No	Yes
+CUST00324	23	11	130.01	1319.505179	One year	Credit card	No	DSL	Yes
+CUST00520	52	50	50.04	2337.825044	Two year	Credit card	Yes	DSL	No
+CUST00917	54	36	84.01	3052.985376	Month-to-month	Electronic check	No	DSL	No
+CUST00923	35	42	90.77	3556.607679	One year	Credit card	Yes	DSL	No
+CUST00006	25	15	146.67	2008.152736	Two year	Mailed check	No	DSL	Yes
+CUST00732	70	51	30.02	1475.103735	One year	Credit card	No	Fiber optic	No
+CUST00466	70	3	95.87	271.5221952	Month-to-month	Credit card	Yes	DSL	Yes
+CUST00098	43	1	141.55	141.9832899	Month-to-month	Electronic check	No	DSL	Yes
+CUST00267	69	16	136.62	2012.081252	Two year	Mailed check	No	No	Yes
+CUST00358	77	2	127.4	267.6302393	Month-to-month	Mailed check	No	No	Yes
+CUST00869	71	29	36.04	1130.075805	Month-to-month	Electronic check	Yes	DSL	No
+CUST00799	22	29	37.3	1134.364766	One year	Bank transfer	Yes	No	No
+CUST00381	33	2	123.75	249.1249384	Two year	Bank transfer	No	DSL	Yes
+CUST00632	68	55	75.3	4440.241157	Month-to-month	Mailed check	Yes	No	No
+CUST00382	20	3	102.16	318.427717	Two year	Credit card	No	DSL	Yes
+CUST00491	48	8	137.15	989.7953383	Two year	Electronic check	No	No	Yes
+CUST00119	64	15	115.11	1690.076152	One year	Electronic check	No	DSL	Yes
+CUST00901	55	27	68.24	1971.804371	Month-to-month	Electronic check	No	No	No
+CUST00251	44	7	84.96	576.385836	Two year	Credit card	No	Fiber optic	Yes
+CUST00524	30	39	69.52	2459.247639	Two year	Mailed check	No	DSL	No
+CUST00010	75	6	101.9	641.5028462	Month-to-month	Mailed check	Yes	No	Yes
+CUST00197	69	9	145.47	1388.317513	Two year	Electronic check	No	Fiber optic	Yes
+CUST00604	29	51	95.26	4528.475185	Two year	Mailed check	Yes	No	No
+CUST00082	52	1	139.55	140.5921733	One year	Bank transfer	No	Fiber optic	Yes
+CUST00784	78	33	82.07	2541.453967	Two year	Mailed check	No	No	No
+CUST00588	59	47	30.23	1483.108091	Month-to-month	Electronic check	No	DSL	No
+CUST00798	70	43	47.8	1961.488961	One year	Mailed check	Yes	DSL	No
+CUST00240	74	8	148.73	1146.10508	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00291	49	3	123.96	397.5375522	One year	Electronic check	No	Fiber optic	Yes
+CUST00212	24	4	97.33	387.4763636	Two year	Credit card	No	Fiber optic	Yes
+CUST00718	34	34	54.83	1927.511929	One year	Electronic check	No	No	No
+CUST00360	43	15	91.4	1344.230691	Two year	Mailed check	No	Fiber optic	Yes
+CUST00450	64	6	93.08	535.9181739	Month-to-month	Electronic check	Yes	Fiber optic	Yes
+CUST00228	37	15	81.39	1251.487978	One year	Electronic check	No	No	Yes
+CUST00951	45	41	51.68	1972.616923	Month-to-month	Credit card	No	Fiber optic	No
+CUST00947	45	49	73.54	3511.931997	Month-to-month	Mailed check	Yes	DSL	No
+CUST00797	33	23	91.35	1978.784453	One year	Bank transfer	Yes	No	No
+CUST00502	40	32	44.48	1479.097345	Two year	Credit card	No	DSL	No
+CUST00465	63	3	107.35	350.6614913	One year	Mailed check	No	DSL	Yes
+CUST00363	69	14	93.4	1437.186028	One year	Credit card	Yes	Fiber optic	Yes
+CUST00469	77	14	108.82	1508.329543	Month-to-month	Mailed check	No	Fiber optic	Yes
+CUST00936	40	42	64.15	2560.948526	Month-to-month	Electronic check	No	DSL	No
+CUST00429	29	4	145.45	575.1476255	Month-to-month	Bank transfer	Yes	Fiber optic	Yes
+CUST00008	38	12	110.14	1413.475807	Two year	Electronic check	No	No	Yes
+CUST00156	26	17	141.46	2263.419315	Two year	Credit card	No	DSL	Yes
+CUST00542	51	27	83.15	2448.045469	Two year	Electronic check	Yes	DSL	No
+CUST00441	71	7	122.39	829.634332	One year	Bank transfer	No	No	Yes
+CUST00483	38	9	97.3	960.7836529	One year	Credit card	No	DSL	Yes
+CUST00423	25	3	104.91	336.044075	One year	Electronic check	No	No	Yes
+CUST00779	76	37	53.3	2093.80639	Two year	Bank transfer	No	Fiber optic	No
+CUST00950	75	31	33.45	999.1852503	Month-to-month	Credit card	Yes	No	No
+CUST00335	36	13	85.87	1006.638618	Month-to-month	Electronic check	No	No	Yes
+CUST00577	69	50	58	2831.637087	Month-to-month	Bank transfer	No	No	No
+CUST00935	33	33	24.42	773.9172197	One year	Bank transfer	Yes	DSL	No
+CUST00568	77	53	95.39	4587.916369	One year	Bank transfer	Yes	DSL	No
+CUST00595	75	37	25.99	962.6618783	Month-to-month	Bank transfer	Yes	No	No
+CUST00531	37	53	55.08	2862.625025	Two year	Mailed check	Yes	Fiber optic	No
+CUST00582	57	30	62.39	1922.069868	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00708	30	31	98.82	3137.668921	Two year	Mailed check	No	No	No
+CUST00449	45	15	103.34	1432.523872	Month-to-month	Credit card	Yes	No	Yes
+CUST00454	78	18	127.43	2512.54699	Two year	Electronic check	No	No	Yes
+CUST00229	47	19	85.05	1514.769369	One year	Electronic check	No	DSL	Yes
+CUST00353	48	1	94.38	93.34699249	Month-to-month	Mailed check	No	Fiber optic	Yes
+CUST00729	24	34	33.28	1128.830953	Month-to-month	Mailed check	No	DSL	No
+CUST00213	76	6	106.7	680.2845606	Month-to-month	Electronic check	No	No	Yes
+CUST00080	25	2	148.74	273.635764	Month-to-month	Mailed check	No	DSL	Yes
+CUST00149	22	14	134.94	1862.199525	One year	Electronic check	No	DSL	Yes
+CUST00303	72	6	131.34	808.29297	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00629	29	50	29.15	1374.467864	Two year	Electronic check	Yes	No	No
+CUST00778	30	48	20.7	1018.930421	Two year	Mailed check	No	No	No
+CUST00507	43	45	32.45	1583.981316	Month-to-month	Bank transfer	No	DSL	No
+CUST00343	56	14	88.13	1356.589564	One year	Credit card	No	Fiber optic	Yes
+CUST00486	50	4	134.67	488.3081492	Two year	Mailed check	No	Fiber optic	Yes
+CUST00712	19	37	36.58	1281.885849	One year	Credit card	Yes	DSL	No
+CUST00134	24	8	134.97	1038.795442	Month-to-month	Mailed check	Yes	No	Yes
+CUST00704	27	51	70.45	3520.463025	One year	Electronic check	Yes	No	No
+CUST00312	22	3	122.08	347.3608523	Two year	Bank transfer	No	No	Yes
+CUST00723	27	41	37.58	1449.408046	Month-to-month	Credit card	Yes	DSL	No
+CUST00630	43	57	21.64	1345.616615	Two year	Bank transfer	Yes	DSL	No
+CUST00001	56	19	149.33	3074.761758	Two year	Credit card	No	Fiber optic	Yes
+CUST00317	28	14	102.77	1308.424374	One year	Electronic check	No	DSL	Yes
+CUST00707	46	36	86.13	3000.722152	One year	Credit card	Yes	No	No
+CUST00548	42	42	49.25	2029.259957	Month-to-month	Mailed check	No	No	No
+CUST00873	43	43	48.3	1968.491857	Two year	Credit card	Yes	No	No
+CUST00533	25	27	44.2	1224.159383	Two year	Bank transfer	No	No	No
+CUST00478	52	17	145.89	2549.7625	Month-to-month	Bank transfer	No	No	Yes
+CUST00405	35	8	144.03	1233.012998	Month-to-month	Mailed check	No	No	Yes
+CUST00173	18	14	80.8	1185.694263	One year	Mailed check	No	Fiber optic	Yes
+CUST00126	77	6	111.51	674.756822	One year	Mailed check	No	No	Yes
+CUST00395	57	16	148.4	2447.335285	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00421	37	19	87.22	1582.271746	Month-to-month	Credit card	No	Fiber optic	Yes
+CUST00553	75	25	98.03	2496.361492	Month-to-month	Bank transfer	Yes	No	No
+CUST00904	75	24	33.61	804.9020546	Two year	Mailed check	Yes	DSL	No
+CUST00091	23	14	118.34	1535.267956	Month-to-month	Credit card	Yes	DSL	Yes
+CUST00940	27	48	91.86	4182.241126	Two year	Mailed check	Yes	DSL	No
+CUST00182	72	19	148.53	2704.498867	One year	Mailed check	No	Fiber optic	Yes
+CUST00275	56	3	118.88	386.9051528	One year	Mailed check	No	No	Yes
+CUST00896	77	47	82.14	3652.40721	Two year	Mailed check	Yes	DSL	No
+CUST00070	43	10	93.29	893.5771274	Two year	Credit card	No	Fiber optic	Yes
+CUST00292	50	19	120.75	2234.303143	Two year	Electronic check	No	Fiber optic	Yes
+CUST00132	18	9	94.31	876.5866398	Two year	Mailed check	No	Fiber optic	Yes
+CUST00301	23	13	116.38	1397.423519	Month-to-month	Credit card	No	Fiber optic	Yes
+CUST00425	20	7	85.18	650.3938745	One year	Bank transfer	No	No	Yes
+CUST00327	20	14	122.38	1838.588097	Two year	Credit card	No	Fiber optic	Yes
+CUST00145	52	9	116.18	1061.767734	One year	Mailed check	No	DSL	Yes
+CUST00424	24	19	131.81	2591.561739	Two year	Credit card	No	DSL	Yes
+CUST00581	72	30	26.12	707.8510291	One year	Bank transfer	No	No	No
+CUST00136	41	15	124.15	1802.264982	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00451	50	14	118.47	1756.655229	Two year	Credit card	No	Fiber optic	Yes
+CUST00165	41	6	128.28	704.6394191	Month-to-month	Mailed check	No	DSL	Yes
+CUST00029	77	4	90.08	344.6326641	One year	Credit card	No	No	Yes
+CUST00774	37	20	98.94	2012.557073	Month-to-month	Credit card	Yes	Fiber optic	No
+CUST00194	49	8	121.68	926.0165395	Two year	Mailed check	No	Fiber optic	Yes
+CUST00389	69	17	92.05	1700.672087	One year	Electronic check	No	Fiber optic	Yes
+CUST00853	62	38	41.71	1468.027062	Two year	Credit card	Yes	DSL	No
+CUST00170	39	9	144.79	1380.617512	Month-to-month	Electronic check	No	No	Yes
+CUST00706	61	28	27.89	782.1614585	Two year	Credit card	Yes	No	No
+CUST00141	28	1	84.78	89.02460863	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00174	52	14	110.13	1483.451421	Month-to-month	Mailed check	No	No	Yes
+CUST00007	78	11	128.71	1419.912905	Two year	Credit card	No	DSL	Yes
+CUST00746	26	46	86.35	4255.577139	Two year	Bank transfer	Yes	Fiber optic	No
+CUST00479	77	3	112.06	333.9530159	Month-to-month	Electronic check	No	No	Yes
+CUST00074	45	9	86.45	756.2210077	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00911	38	53	76.53	4085.4199	One year	Mailed check	Yes	No	No
+CUST00814	59	23	69.38	1665.110888	Month-to-month	Credit card	No	DSL	No
+CUST00239	18	14	118.74	1643.596393	Two year	Mailed check	No	DSL	Yes
+CUST00146	52	9	124.91	1222.866221	One year	Mailed check	No	Fiber optic	Yes
+CUST00793	69	55	32.48	1713.138244	One year	Credit card	No	No	No
+CUST00235	42	4	129.27	514.5425443	Two year	Bank transfer	No	DSL	Yes
+CUST00221	74	4	106.13	446.334186	Month-to-month	Bank transfer	No	DSL	Yes
+CUST00924	64	37	58.28	2237.922631	Two year	Credit card	Yes	Fiber optic	No
+CUST00501	39	34	82.44	3006.814265	One year	Credit card	Yes	DSL	No
+CUST00133	42	8	119.46	1050.63812	One year	Credit card	Yes	Fiber optic	Yes
+CUST00991	22	32	44.29	1396.547554	Month-to-month	Electronic check	Yes	No	No
+CUST00775	65	38	44.94	1574.910916	One year	Electronic check	Yes	DSL	No
+CUST00186	26	2	111.55	202.1471566	Two year	Electronic check	No	Fiber optic	Yes
+CUST00042	45	9	127.04	1195.240396	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00697	60	25	20.25	544.1188842	Two year	Credit card	Yes	No	No
+CUST00109	31	14	120.85	1597.394725	Month-to-month	Mailed check	Yes	No	Yes
+CUST00589	47	31	33.94	980.2679036	Month-to-month	Mailed check	Yes	No	No
+CUST00057	68	9	116.8	959.1579984	Month-to-month	Bank transfer	Yes	DSL	Yes
+CUST00406	63	16	97.47	1660.172332	Month-to-month	Mailed check	No	Fiber optic	Yes
+CUST00443	44	17	80.14	1310.986105	One year	Mailed check	No	DSL	Yes
+CUST00758	40	56	90.03	4942.557438	One year	Electronic check	Yes	DSL	No
+CUST00998	49	36	55.34	1993.335808	Month-to-month	Electronic check	No	Fiber optic	No
+CUST00025	61	16	92.19	1575.18142	One year	Bank transfer	No	DSL	Yes
+CUST00468	52	12	88.19	1090.204756	Month-to-month	Credit card	No	No	Yes
+CUST00540	32	42	98.74	4242.516445	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00532	18	45	51.66	2173.906986	One year	Mailed check	No	DSL	No
+CUST00619	70	48	77.21	3715.856559	Month-to-month	Bank transfer	No	DSL	No
+CUST00695	78	52	42.55	2307.910408	Month-to-month	Mailed check	Yes	No	No
+CUST00927	31	46	49.1	2472.381406	Two year	Bank transfer	Yes	Fiber optic	No
+CUST00339	69	3	111.44	314.3548315	Month-to-month	Mailed check	No	DSL	Yes
+CUST00052	72	11	122.86	1218.893492	Two year	Mailed check	No	Fiber optic	Yes
+CUST00508	34	44	35.26	1419.661131	Two year	Electronic check	No	No	No
+CUST00517	59	29	47.76	1350.65014	Month-to-month	Electronic check	No	DSL	No
+CUST00921	37	42	63.78	2850.492436	Two year	Electronic check	No	Fiber optic	No
+CUST00782	53	40	99.34	3581.915955	Two year	Bank transfer	Yes	No	No
+CUST00265	41	14	94.92	1317.38003	Month-to-month	Credit card	No	DSL	Yes
+CUST00818	48	40	73.14	2825.679418	Two year	Electronic check	No	Fiber optic	No
+CUST00711	63	32	35.94	1047.143633	One year	Credit card	No	Fiber optic	No
+CUST00683	66	56	23.6	1308.446455	Month-to-month	Credit card	Yes	DSL	No
+CUST00833	34	52	30.11	1488.921029	Two year	Mailed check	Yes	DSL	No
+CUST00519	43	43	65	2712.203622	Month-to-month	Bank transfer	Yes	DSL	No
+CUST00448	50	18	145.73	2731.011546	Two year	Electronic check	Yes	DSL	Yes
+CUST00019	41	5	80.47	404.0842077	One year	Mailed check	No	DSL	Yes
+CUST00716	52	30	81.21	2253.405706	One year	Electronic check	No	Fiber optic	No
+CUST00484	49	16	134.06	2342.903147	One year	Bank transfer	No	Fiber optic	Yes
+CUST00569	61	36	95.23	3521.468032	Month-to-month	Electronic check	Yes	No	No
+CUST00434	39	5	123.76	651.7038764	One year	Electronic check	No	DSL	Yes
+CUST00368	65	3	106.15	291.6500855	One year	Bank transfer	No	No	Yes
+CUST00084	34	12	83.53	911.5578874	Two year	Electronic check	No	Fiber optic	Yes
+CUST00062	35	1	123.92	112.0100005	One year	Bank transfer	No	Fiber optic	Yes
+CUST00639	22	23	21.27	458.7609853	One year	Electronic check	Yes	DSL	No
+CUST00273	29	9	106.99	946.426598	Two year	Mailed check	No	Fiber optic	Yes
+CUST00286	19	9	145.54	1424.034244	Month-to-month	Electronic check	No	DSL	Yes
+CUST00361	65	4	117.94	467.708493	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00355	59	3	145.78	418.9940336	Month-to-month	Bank transfer	Yes	Fiber optic	Yes
+CUST00457	21	17	95.43	1642.405636	Two year	Bank transfer	No	Fiber optic	Yes
+CUST00279	54	2	130.8	241.2964171	One year	Credit card	No	DSL	Yes
+CUST00013	28	1	123.21	125.9084442	Month-to-month	Bank transfer	No	No	Yes
+CUST00183	31	8	131.76	1068.506551	Month-to-month	Electronic check	No	DSL	Yes
+CUST00369	79	13	95.03	1307.535055	One year	Electronic check	No	No	Yes
+CUST00882	79	44	61.82	2984.845848	One year	Bank transfer	Yes	Fiber optic	No
+CUST00616	42	49	57.67	2685.032157	Two year	Bank transfer	Yes	Fiber optic	No
+CUST00224	45	15	126.55	1901.916072	Two year	Bank transfer	No	Fiber optic	Yes
+CUST00573	21	28	72.48	2195.393562	One year	Credit card	Yes	Fiber optic	No
+CUST00971	45	40	64.77	2738.573991	One year	Bank transfer	No	No	No
+CUST00654	53	39	74.96	2916.076617	Two year	Bank transfer	Yes	No	No
+CUST00546	39	38	72.65	3006.607503	One year	Bank transfer	Yes	No	No
+CUST00583	69	38	29.36	1016.883567	Month-to-month	Mailed check	Yes	No	No
+CUST00634	39	31	83.98	2827.790637	One year	Credit card	No	DSL	No
+CUST00177	31	8	114.86	836.2740465	Two year	Mailed check	Yes	No	Yes
+CUST00666	69	56	29.86	1687.98022	Two year	Mailed check	No	DSL	No
+CUST00674	73	36	75.88	2944.991946	Month-to-month	Electronic check	Yes	No	No
+CUST00586	67	56	53.29	2842.62047	One year	Electronic check	No	DSL	No
+CUST00874	36	58	61.11	3524.707627	Month-to-month	Electronic check	No	No	No
+CUST00394	55	12	132	1528.347389	Two year	Electronic check	Yes	DSL	Yes
+CUST00164	79	12	102.89	1346.33061	Two year	Electronic check	No	DSL	Yes
+CUST00249	23	14	142.3	2121.153351	Month-to-month	Electronic check	No	No	Yes
+CUST00635	74	47	92.26	4517.475307	One year	Credit card	Yes	No	No
+CUST00886	25	54	91.19	5010.559613	Month-to-month	Bank transfer	Yes	No	No
+CUST00670	36	37	85.43	3363.582359	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00376	26	15	85.9	1260.737217	Month-to-month	Credit card	No	No	Yes
+CUST00413	58	15	136.5	2026.022485	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00075	64	9	140.29	1320.690495	One year	Credit card	No	DSL	Yes
+CUST00114	57	19	137.21	2532.823618	Two year	Mailed check	No	DSL	Yes
+CUST00599	43	33	60.81	1831.703387	Two year	Electronic check	Yes	No	No
+CUST00962	53	54	78.9	3897.882007	Month-to-month	Electronic check	Yes	Fiber optic	No
+CUST00391	66	8	115.89	855.7990321	One year	Credit card	Yes	No	Yes
+CUST00105	48	19	110.69	2258.606098	One year	Bank transfer	No	No	Yes
+CUST00115	38	6	149.74	893.449422	One year	Credit card	Yes	Fiber optic	Yes
+CUST00418	31	19	96.04	1902.451846	Month-to-month	Bank transfer	No	DSL	Yes
+CUST00526	75	26	61.03	1552.794135	Two year	Bank transfer	No	DSL	No
+CUST00458	52	4	118.28	450.2882647	One year	Credit card	No	DSL	Yes
+CUST00410	52	7	126.95	861.4914639	Two year	Credit card	No	Fiber optic	Yes
+CUST00093	59	4	129.06	546.6137388	Two year	Electronic check	No	Fiber optic	Yes
+CUST00931	70	32	89.57	2938.019893	Two year	Credit card	No	DSL	No
+CUST00090	79	12	94.28	1230.385628	Month-to-month	Credit card	No	Fiber optic	Yes
+CUST00337	49	13	125.78	1693.908494	Month-to-month	Electronic check	Yes	DSL	Yes
+CUST00989	76	37	52.22	1959.260148	One year	Bank transfer	Yes	Fiber optic	No
+CUST00922	74	56	97.62	5587.202145	One year	Bank transfer	Yes	Fiber optic	No
+CUST00934	20	32	94.59	3294.681053	Month-to-month	Electronic check	Yes	DSL	No
+CUST00606	18	55	79.33	4614.642777	Two year	Bank transfer	No	DSL	No
+CUST00594	45	50	42.35	1915.931464	One year	Credit card	Yes	Fiber optic	No
+CUST00612	49	21	30.53	645.5075967	Two year	Electronic check	Yes	DSL	No
+CUST00095	71	3	137.29	427.3841883	Two year	Electronic check	No	No	Yes
+CUST00012	40	12	83.5	1051.839175	Two year	Bank transfer	Yes	DSL	Yes
+CUST00397	79	2	143.81	271.1187873	Month-to-month	Bank transfer	Yes	No	Yes
+CUST00534	63	35	88.38	3320.457942	One year	Mailed check	Yes	Fiber optic	No
+CUST00044	33	2	82.07	179.1044188	Two year	Credit card	No	No	Yes
+CUST00043	77	9	104.92	894.5571058	Two year	Credit card	Yes	DSL	Yes
+CUST00330	76	1	81.11	87.31678795	One year	Mailed check	Yes	Fiber optic	Yes
+CUST00168	61	8	85.4	628.1311781	Month-to-month	Credit card	No	DSL	Yes
+CUST00498	67	6	143.78	786.0234347	One year	Credit card	No	Fiber optic	Yes
+CUST00877	20	28	33.22	861.183762	One year	Electronic check	Yes	Fiber optic	No
+CUST00598	54	28	88.34	2254.732743	Month-to-month	Bank transfer	Yes	No	No
+CUST00757	41	57	59.26	3610.897847	One year	Bank transfer	Yes	DSL	No
+CUST00101	27	6	104.84	573.5649806	One year	Credit card	Yes	Fiber optic	Yes
+CUST00427	50	18	109.73	1884.940962	Month-to-month	Mailed check	No	No	Yes
+CUST00179	18	17	95.07	1488.108993	One year	Electronic check	No	No	Yes
+CUST00445	51	12	121.8	1401.79777	Two year	Credit card	Yes	No	Yes
+CUST00417	50	6	121.64	670.0747844	Two year	Bank transfer	No	DSL	Yes
+CUST00871	44	30	52.52	1628.541184	Month-to-month	Credit card	Yes	DSL	No
+CUST00883	75	41	92.26	3505.260003	Month-to-month	Electronic check	No	No	No
+CUST00681	72	52	68.31	3802.07979	Two year	Credit card	Yes	DSL	No
+CUST00178	20	8	106.05	902.2209775	One year	Mailed check	No	DSL	Yes
+CUST00396	37	19	103.31	1771.964277	Two year	Bank transfer	No	No	Yes
+CUST00912	33	55	66.13	3925.013223	Two year	Bank transfer	Yes	No	No
+CUST00794	36	42	64.7	2461.390657	One year	Credit card	No	Fiber optic	No
+CUST00961	58	53	49.69	2496.43779	Two year	Bank transfer	Yes	DSL	No
+CUST00685	49	28	82.85	2102.847264	Month-to-month	Electronic check	Yes	DSL	No
+CUST00384	41	10	141.95	1372.895966	Month-to-month	Mailed check	No	Fiber optic	Yes
+CUST00957	67	43	40.22	1734.25632	Month-to-month	Mailed check	No	No	No
+CUST00752	53	27	95.11	2720.325025	One year	Mailed check	Yes	No	No
+CUST00258	61	1	106.83	103.3683138	Two year	Electronic check	No	DSL	Yes
+CUST00539	40	26	91.52	2477.313525	Month-to-month	Electronic check	No	DSL	No
+CUST00336	37	13	114.55	1396.079452	One year	Bank transfer	Yes	Fiber optic	Yes
+CUST00016	70	17	99.83	1782.168629	Month-to-month	Mailed check	No	No	Yes
+CUST00325	33	3	135.07	383.8146369	Two year	Electronic check	No	No	Yes
+CUST00759	79	55	47	2400.712639	One year	Bank transfer	Yes	No	No
+CUST00223	23	8	107.82	808.2892516	Two year	Mailed check	No	Fiber optic	Yes
+CUST00180	22	14	115.95	1520.078615	Two year	Credit card	No	DSL	Yes
+CUST00984	19	37	78.36	2906.778721	Two year	Electronic check	Yes	No	No
+CUST00023	19	3	97.74	313.4403094	One year	Credit card	No	No	Yes
+CUST00357	24	16	149.14	2185.607364	Two year	Credit card	Yes	Fiber optic	Yes
+CUST00667	48	22	65.86	1508.89263	One year	Credit card	Yes	Fiber optic	No
+CUST00862	53	47	47.01	2277.674774	One year	Bank transfer	Yes	No	No
+CUST00341	50	13	100.4	1402.442608	Two year	Electronic check	Yes	Fiber optic	Yes
+CUST00432	39	17	133.95	2160.627123	Two year	Credit card	No	Fiber optic	Yes
+CUST00552	39	25	99.08	2452.284424	Month-to-month	Electronic check	Yes	DSL	No
+CUST00834	78	40	22.02	955.8137503	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00204	56	13	109.92	1474.684848	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00631	33	47	40.21	1847.827352	Month-to-month	Credit card	No	No	No
+CUST00094	21	6	94.44	524.8687025	Two year	Credit card	Yes	No	Yes
+CUST00559	23	59	61.61	3462.317076	One year	Credit card	Yes	DSL	No
+CUST00069	26	17	135.98	2349.208514	Two year	Electronic check	Yes	No	Yes
+CUST00623	56	20	61.76	1289.09621	Two year	Mailed check	No	Fiber optic	No
+CUST00285	19	14	103.35	1338.215206	Month-to-month	Electronic check	No	No	Yes
+CUST00845	19	55	67.11	3764.573693	Two year	Mailed check	Yes	Fiber optic	No
+CUST00435	63	17	140.56	2413.583078	One year	Mailed check	No	No	Yes
+CUST00154	45	8	144.07	1155.776898	One year	Bank transfer	No	Fiber optic	Yes
+CUST00076	77	11	140.19	1600.727392	One year	Mailed check	Yes	Fiber optic	Yes
+CUST00731	75	40	80.13	3421.518688	Month-to-month	Electronic check	Yes	DSL	No
+CUST00447	47	1	82.45	79.53109988	One year	Mailed check	No	Fiber optic	Yes
+CUST00189	43	7	135.12	1019.428658	Two year	Mailed check	No	No	Yes
+CUST00272	69	17	108.79	1723.903124	One year	Electronic check	No	DSL	Yes
+CUST00237	79	10	141.16	1319.288099	One year	Bank transfer	Yes	No	Yes
+CUST00488	35	11	124.66	1307.296772	Month-to-month	Mailed check	No	DSL	Yes
+CUST00118	35	9	138.36	1150.484924	Month-to-month	Electronic check	No	No	Yes
+CUST00944	55	54	69.88	3569.99084	One year	Bank transfer	No	Fiber optic	No
+CUST00513	71	32	68.02	2005.30002	Two year	Credit card	Yes	No	No
+CUST00826	35	29	24.28	749.4304624	One year	Mailed check	No	DSL	No
+CUST00592	73	29	50.12	1348.52973	Month-to-month	Mailed check	No	No	No
+CUST00127	62	9	114.96	1085.812789	One year	Bank transfer	No	No	Yes
+CUST00117	62	5	117.45	534.1524838	One year	Bank transfer	No	Fiber optic	Yes
+CUST00474	66	17	90.11	1669.284967	One year	Mailed check	No	No	Yes
+CUST00694	50	32	38.56	1286.030931	Two year	Mailed check	Yes	No	No
+CUST00058	24	9	134.88	1094.178093	Two year	Credit card	Yes	Fiber optic	Yes
+CUST00864	77	56	41.23	2430.722599	One year	Mailed check	No	Fiber optic	No
+CUST00913	71	57	64.35	3678.280356	One year	Mailed check	No	Fiber optic	No
+CUST00370	29	17	109.36	1962.994675	Month-to-month	Credit card	Yes	Fiber optic	Yes
+CUST00269	79	19	115.01	2195.02196	Month-to-month	Bank transfer	Yes	DSL	Yes
+CUST00047	79	7	134.96	971.3658007	Month-to-month	Mailed check	Yes	DSL	Yes
+CUST00350	42	9	121.92	1160.1172	One year	Bank transfer	No	DSL	Yes
+CUST00196	66	7	94.08	646.0615921	One year	Mailed check	Yes	DSL	Yes
+CUST01000	66	43	35.96	1392.489512	Month-to-month	Mailed check	No	No	No
+CUST00835	55	21	43.52	977.8846203	Month-to-month	Bank transfer	Yes	No	No
+CUST00737	73	41	38.97	1559.708039	Two year	Mailed check	No	No	No
+CUST00264	49	13	121.32	1575.911749	One year	Mailed check	No	Fiber optic	Yes
+CUST00444	44	11	108.53	1076.30141	Month-to-month	Credit card	No	No	Yes
+CUST00676	62	36	95.88	3446.22083	Month-to-month	Mailed check	Yes	No	No
+CUST00305	72	14	112.87	1733.927532	One year	Mailed check	Yes	Fiber optic	Yes
+CUST00342	57	19	81.98	1488.545055	Month-to-month	Mailed check	No	DSL	Yes
+CUST00967	50	55	95.57	5146.406365	Month-to-month	Bank transfer	No	DSL	No
+CUST00150	59	11	94.7	1080.699164	Two year	Credit card	No	DSL	Yes
+CUST00125	77	13	99.67	1377.286261	Month-to-month	Credit card	No	No	Yes
+CUST00787	29	33	68.8	2232.889189	Two year	Credit card	Yes	DSL	No
+CUST00051	61	14	129.91	1749.507432	One year	Electronic check	No	DSL	Yes
+CUST00354	47	13	80.8	1142.378444	Month-to-month	Credit card	No	DSL	Yes
+CUST00928	32	29	93.96	2821.378338	Month-to-month	Credit card	Yes	DSL	No
+CUST00143	34	1	108.61	100.3343808	Month-to-month	Bank transfer	Yes	Fiber optic	Yes
+CUST00471	54	8	144.68	1057.651977	Two year	Bank transfer	Yes	DSL	Yes
+CUST00400	79	12	87.83	1050.49244	Two year	Mailed check	No	Fiber optic	Yes
+CUST00626	46	54	82.87	4224.461729	One year	Mailed check	No	Fiber optic	No
+CUST00321	26	19	116.15	2098.266251	Two year	Mailed check	No	No	Yes
+CUST00020	20	12	135.06	1743.146654	Two year	Mailed check	No	Fiber optic	Yes
+CUST00810	74	44	67.2	2714.085764	Two year	Bank transfer	Yes	Fiber optic	No
+CUST00791	31	22	20.51	470.6553192	Two year	Mailed check	Yes	DSL	No
+CUST00809	33	57	81.8	4449.185574	One year	Bank transfer	Yes	DSL	No
+CUST00408	19	8	145.98	1228.644342	Two year	Mailed check	Yes	Fiber optic	Yes
+CUST00538	68	36	76.2	2865.223782	Two year	Credit card	Yes	Fiber optic	No
+CUST00621	33	31	69.22	1934.410338	Month-to-month	Mailed check	No	No	No
+CUST00039	44	8	132.27	1060.093346	One year	Mailed check	No	No	Yes
+CUST00176	64	13	130.44	1573.397367	One year	Credit card	No	DSL	Yes
+CUST00246	58	12	137.85	1775.362551	Two year	Bank transfer	No	DSL	Yes
+CUST00829	26	43	80.83	3733.993467	Two year	Credit card	Yes	No	No
+CUST00668	27	48	61.03	2881.599788	One year	Electronic check	Yes	DSL	No
+CUST00755	56	44	76.33	3321.170314	Month-to-month	Bank transfer	Yes	No	No
+CUST00859	42	55	94.81	5009.39181	One year	Credit card	Yes	No	No
+CUST00155	24	16	111.23	1856.77798	One year	Credit card	No	No	Yes
+CUST00288	71	1	136.41	132.5539993	One year	Credit card	No	Fiber optic	Yes
+CUST00603	26	45	50.06	2148.081221	One year	Electronic check	Yes	No	No
+CUST00570	61	57	76.65	4309.832822	Two year	Credit card	Yes	DSL	No
+CUST00744	27	20	58.06	1066.327061	Month-to-month	Credit card	No	No	No
+CUST00018	57	13	80.56	1098.932521	Month-to-month	Credit card	Yes	Fiber optic	Yes
+CUST00128	58	7	144.72	914.2881317	Month-to-month	Mailed check	No	No	Yes
+CUST00323	76	5	111.03	571.1921764	Month-to-month	Mailed check	No	No	Yes
+CUST00256	68	8	118.74	889.6693343	Two year	Bank transfer	No	No	Yes
+CUST00658	54	39	73.95	2729.697978	Month-to-month	Bank transfer	No	DSL	No
+CUST00965	34	47	81.03	3911.718452	One year	Electronic check	No	No	No
+CUST00191	77	14	97.84	1504.802848	Two year	Electronic check	No	No	Yes
+CUST00116	33	13	131.98	1811.038201	Month-to-month	Credit card	No	Fiber optic	Yes
+CUST00617	57	35	23.64	782.0319423	Two year	Bank transfer	Yes	DSL	No
+CUST00607	75	36	71.73	2414.961041	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00181	43	15	85.36	1374.184913	Month-to-month	Bank transfer	No	DSL	Yes
+CUST00302	49	17	141.08	2371.586603	Month-to-month	Credit card	No	Fiber optic	Yes
+CUST00760	49	59	38.14	2086.914888	One year	Electronic check	Yes	No	No
+CUST00713	78	47	73.6	3709.792351	Two year	Bank transfer	Yes	DSL	No
+CUST00724	43	31	57.47	1894.198131	One year	Electronic check	Yes	No	No
+CUST00686	44	46	81.88	4131.004728	Month-to-month	Mailed check	Yes	No	No
+CUST00980	68	49	29.87	1583.57263	Month-to-month	Bank transfer	Yes	DSL	No
+CUST00518	72	53	70.11	3977.268619	Month-to-month	Bank transfer	Yes	DSL	No
+CUST00985	27	56	42.28	2155.80787	One year	Bank transfer	Yes	No	No
+CUST00046	79	15	137.97	1905.813566	Two year	Bank transfer	No	DSL	Yes
+CUST00910	64	25	88.24	2236.435385	Month-to-month	Bank transfer	Yes	No	No
+CUST00158	29	18	95.12	1722.939501	One year	Credit card	Yes	DSL	Yes
+CUST00852	65	26	94.27	2430.4134	Month-to-month	Credit card	Yes	No	No
+CUST00172	52	18	136.65	2408.926541	Two year	Electronic check	No	Fiber optic	Yes
+CUST00017	53	2	135.05	266.3839904	Month-to-month	Electronic check	Yes	DSL	Yes
+CUST00512	60	51	99.71	5155.68891	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00049	79	4	124.26	447.5424225	Month-to-month	Electronic check	No	No	Yes
+CUST00972	65	51	83.68	4063.436324	Month-to-month	Credit card	Yes	Fiber optic	No
+CUST00941	49	44	80.3	3546.117182	Two year	Bank transfer	Yes	No	No
+CUST00516	46	52	37.24	2022.543406	Month-to-month	Credit card	Yes	No	No
+CUST00953	43	26	46.88	1139.447222	One year	Credit card	No	No	No
+CUST00481	69	1	106.15	107.1452873	Two year	Bank transfer	No	Fiber optic	Yes
+CUST00284	66	4	99	412.985207	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00719	43	31	57.25	1755.095587	Two year	Mailed check	Yes	Fiber optic	No
+CUST00878	62	35	81.87	2594.424927	Month-to-month	Credit card	No	Fiber optic	No
+CUST00226	61	18	96.22	1714.386896	Month-to-month	Bank transfer	No	DSL	Yes
+CUST00027	55	5	102.3	490.676312	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00955	75	35	93.2	3542.303404	Month-to-month	Bank transfer	Yes	No	No
+CUST00438	55	19	143.25	2517.408296	One year	Mailed check	No	Fiber optic	Yes
+CUST00952	53	55	35.13	1991.071283	Month-to-month	Mailed check	Yes	DSL	No
+CUST00365	66	15	85.43	1166.816549	Month-to-month	Credit card	No	No	Yes
+CUST00230	79	8	138.02	1092.27271	Two year	Electronic check	No	Fiber optic	Yes
+CUST00038	66	17	104.42	1794.304229	Two year	Bank transfer	No	Fiber optic	Yes
+CUST00966	26	32	93.79	2880.001235	Two year	Credit card	Yes	No	No
+CUST00375	72	1	116.51	115.4631725	One year	Credit card	No	DSL	Yes
+CUST00470	58	12	135.61	1517.818872	One year	Mailed check	No	Fiber optic	Yes
+CUST00968	70	26	75.65	1889.84624	Two year	Mailed check	No	DSL	No
+CUST00851	25	55	68.86	3879.033197	Month-to-month	Bank transfer	Yes	DSL	No
+CUST00705	60	28	35.99	967.7739905	Two year	Credit card	Yes	No	No
+CUST00842	67	51	24.44	1346.091153	Month-to-month	Electronic check	No	Fiber optic	No
+CUST00195	56	19	141.91	2765.534479	One year	Electronic check	No	DSL	Yes
+CUST00855	39	30	65.48	1940.296426	Two year	Credit card	Yes	DSL	No
+CUST00865	48	27	72.12	1767.609811	One year	Credit card	Yes	Fiber optic	No
+CUST00504	44	52	36.86	1916.546857	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00970	30	42	64.52	2853.34025	One year	Bank transfer	No	DSL	No
+CUST00831	75	44	88.52	3712.254995	One year	Mailed check	Yes	Fiber optic	No
+CUST00580	52	27	86.81	2487.677473	One year	Electronic check	Yes	Fiber optic	No
+CUST00969	37	41	94.19	3670.09597	Two year	Bank transfer	Yes	Fiber optic	No
+CUST00163	40	15	104.13	1663.085134	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00909	78	23	49.27	1039.214387	One year	Electronic check	Yes	Fiber optic	No
+CUST00153	58	9	112.33	1085.010149	Month-to-month	Bank transfer	No	DSL	Yes
+CUST00802	42	59	45.44	2680.523781	Month-to-month	Mailed check	No	Fiber optic	No
+CUST00994	50	22	79.95	1687.325993	Two year	Mailed check	No	No	No
+CUST00756	49	48	54.49	2492.649802	Two year	Credit card	No	No	No
+CUST00112	74	7	109.02	752.7629076	Two year	Bank transfer	No	Fiber optic	Yes
+CUST00227	61	2	80.93	178.0152304	Two year	Mailed check	No	Fiber optic	Yes
+CUST00689	29	48	27	1223.50886	Month-to-month	Credit card	Yes	No	No
+CUST00104	31	9	100.72	834.5447656	Month-to-month	Electronic check	Yes	No	Yes
+CUST00422	73	10	112.14	1140.471688	Month-to-month	Electronic check	Yes	DSL	Yes
+CUST00420	65	2	108.78	217.0614598	Two year	Mailed check	No	Fiber optic	Yes
+CUST00751	65	53	42.62	2269.791198	Month-to-month	Bank transfer	No	Fiber optic	No
+CUST00587	77	53	53.49	2929.62138	Month-to-month	Mailed check	No	No	No
+CUST00781	66	47	43.4	1944.804095	Two year	Electronic check	Yes	No	No
+CUST00673	18	32	46.58	1612.984163	Two year	Bank transfer	No	No	No
+CUST00120	70	19	130.54	2448.35	Two year	Credit card	No	Fiber optic	Yes
+CUST00054	74	11	106.94	1089.075851	One year	Electronic check	No	No	Yes
+CUST00152	75	13	114.26	1557.361145	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00404	46	10	110.07	1132.202992	Two year	Bank transfer	Yes	No	Yes
+CUST00946	41	34	43.5	1424.496898	One year	Mailed check	No	DSL	No
+CUST00208	46	14	131.84	1890.61888	Two year	Electronic check	No	Fiber optic	Yes
+CUST00659	40	42	23.32	924.5643189	One year	Electronic check	Yes	No	No
+CUST00844	75	45	70.97	3158.417244	Two year	Bank transfer	No	Fiber optic	No
+CUST00763	66	23	67.78	1683.472031	Month-to-month	Mailed check	Yes	No	No
+CUST00009	56	18	140.41	2342.14035	Two year	Electronic check	No	No	Yes
+CUST00808	40	45	72.27	3178.453972	Two year	Credit card	Yes	DSL	No
+CUST00037	42	19	117.23	2370.430601	Month-to-month	Credit card	No	No	Yes
+CUST00453	77	9	135.26	1331.64601	Month-to-month	Mailed check	No	No	Yes
+CUST00652	38	59	35.38	2068.184899	One year	Bank transfer	Yes	DSL	No
+CUST00254	54	7	100.78	706.4475904	Month-to-month	Bank transfer	No	DSL	Yes
+CUST00304	21	3	117.9	358.8054446	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00747	41	28	43.65	1327.88318	Two year	Bank transfer	Yes	DSL	No
+CUST00572	56	24	69.57	1789.298143	One year	Mailed check	Yes	DSL	No
+CUST00624	22	51	67.97	3238.099736	Month-to-month	Bank transfer	Yes	No	No
+CUST00733	67	39	60.51	2330.041081	One year	Bank transfer	Yes	Fiber optic	No
+CUST00892	30	30	48.03	1430.525643	One year	Bank transfer	Yes	Fiber optic	No
+CUST00263	49	6	104.17	661.1581703	Month-to-month	Bank transfer	Yes	DSL	Yes
+CUST00611	51	34	93.03	3228.110449	Month-to-month	Credit card	Yes	No	No
+CUST00298	61	2	108.99	224.7033953	One year	Bank transfer	No	No	Yes
+CUST00415	50	6	131.27	866.0984423	Two year	Electronic check	No	DSL	Yes
+CUST00151	56	3	141.72	389.0180024	Two year	Mailed check	Yes	DSL	Yes
+CUST00789	24	51	47.18	2272.882355	Month-to-month	Credit card	Yes	DSL	No
+CUST00641	66	47	56.45	2604.276821	One year	Credit card	Yes	No	No
+CUST00890	18	41	74.25	2951.572316	Two year	Credit card	No	DSL	No
+CUST00551	78	36	63.44	2065.343	Month-to-month	Bank transfer	No	Fiber optic	No
+CUST00887	78	45	47.75	1973.316426	Month-to-month	Bank transfer	No	No	No
+CUST00489	42	16	88.5	1467.245972	One year	Electronic check	No	DSL	Yes
+CUST00148	76	8	124.42	1070.87288	One year	Bank transfer	Yes	Fiber optic	Yes
+CUST00147	50	2	120.75	242.1871646	Two year	Bank transfer	Yes	DSL	Yes
+CUST00721	46	26	54.85	1437.27808	One year	Mailed check	Yes	Fiber optic	No
+CUST00932	71	45	83.56	3576.020465	Month-to-month	Electronic check	Yes	Fiber optic	No
+CUST00740	38	44	42.25	1958.596432	Two year	Mailed check	Yes	DSL	No
+CUST00660	75	29	31.38	955.8476221	Two year	Electronic check	Yes	DSL	No
+CUST00349	74	17	88.29	1527.456143	Month-to-month	Credit card	No	Fiber optic	Yes
+CUST00464	46	9	94.83	804.4235177	One year	Credit card	No	Fiber optic	Yes
+CUST00326	46	12	101.77	1122.812506	Month-to-month	Electronic check	No	No	Yes
+CUST00187	32	3	91.69	251.097021	One year	Credit card	Yes	No	Yes
+CUST00124	77	11	97.06	1087.453577	Two year	Mailed check	No	No	Yes
+CUST00854	18	38	45.05	1823.185593	One year	Bank transfer	Yes	Fiber optic	No
+CUST00609	18	30	87.96	2827.912469	Two year	Electronic check	No	No	No
+CUST00144	25	1	98.73	98.01168148	One year	Credit card	No	No	Yes
+CUST00959	45	32	27.12	917.1804009	Two year	Bank transfer	No	DSL	No
+CUST00198	78	13	103.5	1465.755461	One year	Credit card	Yes	Fiber optic	Yes
+CUST00610	64	27	99.34	2561.573154	Month-to-month	Credit card	Yes	DSL	No
+CUST00280	66	15	132.46	1946.351482	Month-to-month	Credit card	Yes	No	Yes
+CUST00294	36	5	120.03	651.9404235	Two year	Mailed check	Yes	Fiber optic	Yes
+CUST00401	42	17	149.04	2451.705807	One year	Mailed check	No	Fiber optic	Yes
+CUST00123	42	6	109.03	708.3299183	Two year	Bank transfer	Yes	DSL	Yes
+CUST00184	56	11	132.77	1600.980318	Month-to-month	Mailed check	No	Fiber optic	Yes
+CUST00203	40	18	141	2620.135126	One year	Electronic check	Yes	No	Yes
+CUST00439	62	4	127.53	542.4504149	Month-to-month	Electronic check	No	DSL	Yes
+CUST00247	20	3	108.83	342.7848263	Month-to-month	Credit card	No	No	Yes
+CUST00416	21	13	132.75	1794.619249	Two year	Credit card	No	No	Yes
+CUST00933	71	59	63.28	3589.35466	One year	Mailed check	Yes	Fiber optic	No
+CUST00766	40	23	98.79	2070.898608	One year	Credit card	Yes	No	No
+CUST00907	49	50	95.12	4606.710808	Two year	Credit card	Yes	No	No
+CUST00836	24	47	56.23	2731.046018	One year	Mailed check	No	Fiber optic	No
+CUST00888	58	30	35.88	990.8324858	Two year	Mailed check	Yes	DSL	No
+CUST00130	32	9	94.26	765.5281003	One year	Bank transfer	No	Fiber optic	Yes
+CUST00638	45	20	33.19	615.9655594	Two year	Mailed check	Yes	DSL	No
+CUST00403	42	6	102.93	644.2268387	Month-to-month	Mailed check	No	Fiber optic	Yes
+CUST00785	58	57	39.2	2445.682049	Month-to-month	Mailed check	No	Fiber optic	No
+CUST00771	34	43	76.81	3621.926116	Month-to-month	Bank transfer	Yes	DSL	No
+CUST00736	46	50	41.84	2089.480876	Month-to-month	Electronic check	Yes	Fiber optic	No
+CUST00914	38	45	47.31	2286.216516	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00220	79	12	118.27	1486.462716	Month-to-month	Bank transfer	No	No	Yes
+CUST00642	47	24	55.9	1341.879116	Two year	Credit card	Yes	DSL	No
+CUST00916	77	39	93.06	3682.154543	Two year	Electronic check	Yes	No	No
+CUST00753	35	30	35.15	977.9912052	Month-to-month	Mailed check	No	No	No
+CUST00807	70	52	20.4	1153.654255	Two year	Bank transfer	Yes	DSL	No
+CUST00920	36	57	24.81	1372.290705	Month-to-month	Mailed check	Yes	DSL	No
+CUST00625	39	46	92.38	4203.712468	One year	Mailed check	No	No	No
+CUST00875	56	53	71.8	3936.047169	Two year	Credit card	No	No	No
+CUST00761	54	34	41.84	1375.30326	Two year	Credit card	Yes	No	No
+CUST00387	50	2	120.28	228.7369168	One year	Bank transfer	No	Fiber optic	Yes
+CUST00973	46	51	34.18	1788.868536	Month-to-month	Mailed check	Yes	DSL	No
+CUST00510	50	40	43.54	1576.142456	Month-to-month	Credit card	No	No	No
+CUST00268	66	3	81.55	255.4500797	Two year	Electronic check	No	DSL	Yes
+CUST00820	22	24	29.18	702.2841693	One year	Mailed check	Yes	DSL	No
+CUST00442	25	3	146.16	447.7541792	Month-to-month	Electronic check	Yes	Fiber optic	Yes
+CUST00497	41	12	128.76	1585.874134	One year	Mailed check	No	Fiber optic	Yes
+CUST00113	79	15	114.7	1729.807959	Two year	Credit card	No	No	Yes
+CUST00692	77	25	95.32	2422.335598	Month-to-month	Bank transfer	Yes	DSL	No
+CUST00233	72	9	145.32	1355.954582	One year	Electronic check	No	DSL	Yes
+CUST00870	56	57	82.74	4954.930809	One year	Mailed check	No	No	No
+CUST00608	75	41	56.99	2442.882597	Month-to-month	Credit card	No	DSL	No
+CUST00672	49	37	89.2	3544.376431	Two year	Bank transfer	Yes	No	No
+CUST00374	76	8	110.74	830.8943453	Month-to-month	Mailed check	No	Fiber optic	Yes
+CUST00982	64	33	39.96	1292.609161	Two year	Bank transfer	No	Fiber optic	No
+CUST00843	44	29	77.37	2444.676693	One year	Credit card	Yes	DSL	No
+CUST00234	45	11	148.63	1601.116566	One year	Mailed check	No	Fiber optic	Yes
+CUST00786	36	32	88.49	2619.23042	Two year	Credit card	No	No	No
+CUST00677	21	50	48.54	2439.351064	Two year	Mailed check	Yes	No	No
+CUST00318	65	16	115.86	1708.977997	One year	Bank transfer	No	Fiber optic	Yes
+CUST00649	43	49	80.6	3714.689716	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00411	33	4	88	387.0816405	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00899	73	22	43.61	967.3568285	Two year	Mailed check	Yes	No	No
+CUST00710	48	49	43.91	2058.666438	Two year	Mailed check	Yes	Fiber optic	No
+CUST00359	33	1	133.54	146.7544495	Month-to-month	Credit card	Yes	DSL	Yes
+CUST00259	41	7	127.52	975.9338306	Month-to-month	Electronic check	Yes	Fiber optic	Yes
+CUST00745	54	25	28.56	705.5375351	Month-to-month	Bank transfer	Yes	No	No
+CUST00628	20	48	55.2	2522.632815	One year	Mailed check	Yes	Fiber optic	No
+CUST00633	54	27	78.38	2259.488324	Two year	Bank transfer	Yes	Fiber optic	No
+CUST00283	76	2	134.11	279.7867577	Month-to-month	Mailed check	No	No	Yes
+CUST00377	58	5	146.6	760.4056144	One year	Mailed check	Yes	No	Yes
+CUST00385	71	7	134.35	1014.390764	One year	Electronic check	No	DSL	Yes
+CUST00225	45	4	122.79	509.7668239	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00954	25	52	95.22	4737.337697	One year	Electronic check	No	DSL	No
+CUST00815	75	36	68.3	2554.134148	Two year	Bank transfer	Yes	Fiber optic	No
+CUST00473	46	5	140.01	672.8619497	Two year	Mailed check	No	Fiber optic	Yes
+CUST00348	45	1	127.13	133.7214103	Two year	Mailed check	No	No	Yes
+CUST00506	19	30	89.05	2735.481279	Month-to-month	Mailed check	No	Fiber optic	No
+CUST00640	64	32	85.8	2513.548231	Two year	Bank transfer	Yes	No	No
+CUST00988	67	30	33.87	1018.708402	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00929	48	50	58.87	2851.251281	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00906	62	47	29.35	1332.154352	Two year	Mailed check	No	DSL	No
+CUST00620	18	25	74.57	1902.376262	Month-to-month	Electronic check	Yes	Fiber optic	No
+CUST00856	69	35	95.99	3240.264719	One year	Electronic check	Yes	DSL	No
+CUST00804	76	23	30.97	751.7568372	Two year	Mailed check	Yes	No	No
+CUST00646	22	54	78.71	3885.483534	Month-to-month	Electronic check	Yes	No	No
+CUST00847	46	45	70.58	3277.981826	Two year	Credit card	No	Fiber optic	No
+CUST00557	69	31	66.69	2195.235249	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00958	45	30	51.21	1589.404265	One year	Credit card	Yes	No	No
+CUST00578	47	56	48.41	2709.457692	One year	Mailed check	Yes	Fiber optic	No
+CUST00796	64	44	23.62	1132.879015	Month-to-month	Electronic check	Yes	Fiber optic	No
+CUST00086	67	1	108.57	104.2258644	Month-to-month	Bank transfer	No	No	Yes
+CUST00243	74	15	141.99	1925.029945	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00699	29	37	37.43	1366.07228	One year	Electronic check	No	No	No
+CUST00160	50	19	95.53	1645.546795	Two year	Bank transfer	No	Fiber optic	Yes
+CUST00525	77	38	21.21	879.1527888	Two year	Electronic check	No	DSL	No
+CUST00036	61	10	130.02	1224.767089	Month-to-month	Credit card	No	DSL	Yes
+CUST00541	45	42	66.51	2954.838905	Month-to-month	Electronic check	Yes	Fiber optic	No
+CUST00171	44	18	141.71	2690.854596	One year	Mailed check	No	DSL	Yes
+CUST00655	50	57	28.47	1531.176656	Month-to-month	Credit card	No	DSL	No
+CUST00891	20	37	89.84	3404.673337	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00858	24	45	61.85	2531.688158	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00848	54	25	75.98	1893.259985	One year	Electronic check	No	Fiber optic	No
+CUST00945	29	23	52.87	1097.971211	One year	Mailed check	Yes	DSL	No
+CUST00734	62	48	64.85	3374.987334	Month-to-month	Credit card	No	DSL	No
+CUST00096	46	3	131.19	431.0446353	One year	Bank transfer	No	No	Yes
+CUST00564	54	53	95.41	4775.861787	Two year	Mailed check	Yes	No	No
+CUST00241	44	11	128.81	1334.192504	Two year	Electronic check	No	Fiber optic	Yes
+CUST00743	53	36	26.62	1006.949024	One year	Credit card	No	Fiber optic	No
+CUST00575	62	35	40.32	1341.593802	One year	Credit card	No	Fiber optic	No
+CUST00691	52	21	82.4	1867.128096	Month-to-month	Bank transfer	Yes	DSL	No
+CUST00461	61	15	132.68	2019.626753	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00554	75	53	27.9	1434.568974	One year	Bank transfer	Yes	DSL	No
+CUST00889	56	27	26.05	750.1500293	One year	Credit card	Yes	DSL	No
+CUST00207	60	11	112.55	1236.417433	Two year	Electronic check	No	No	Yes
+CUST00393	53	17	141.19	2597.832734	Two year	Credit card	No	DSL	Yes
+CUST00795	75	32	48.92	1699.446121	One year	Bank transfer	Yes	DSL	No
+CUST00398	52	17	94.24	1494.875263	Two year	Mailed check	Yes	Fiber optic	Yes
+CUST00767	42	27	27.37	665.4343948	One year	Bank transfer	Yes	Fiber optic	No
+CUST00849	55	49	66.81	3590.537976	Two year	Credit card	Yes	Fiber optic	No
+CUST00218	59	6	88.92	576.8564997	Month-to-month	Mailed check	No	Fiber optic	Yes
+CUST00005	60	5	99.99	455.4989691	Month-to-month	Bank transfer	No	No	Yes
+CUST00769	58	51	38.1	2072.523776	One year	Bank transfer	Yes	No	No
+CUST00643	63	55	91.66	4998.756401	Two year	Electronic check	Yes	No	No
+CUST00930	18	49	82.68	3856.015266	One year	Bank transfer	Yes	DSL	No
+CUST00613	79	20	75.98	1634.708643	Two year	Electronic check	Yes	DSL	No
+CUST00739	42	58	69.36	3778.825735	One year	Electronic check	Yes	No	No
+CUST00547	68	36	89.08	3493.767484	Month-to-month	Credit card	Yes	DSL	No
+CUST00726	51	39	37.84	1388.873593	Month-to-month	Credit card	Yes	Fiber optic	No
+CUST00684	45	43	89.85	3951.394136	One year	Mailed check	Yes	DSL	No
+CUST00099	61	8	117.21	885.7487188	One year	Electronic check	No	DSL	Yes
+CUST00805	38	41	83.16	3440.702011	One year	Bank transfer	Yes	DSL	No
+CUST00728	58	48	79.85	3973.827976	One year	Credit card	No	Fiber optic	No
+CUST00574	23	41	64.9	2496.0455	Two year	Electronic check	Yes	DSL	No
+CUST00407	35	2	115.74	232.4469282	Month-to-month	Credit card	No	Fiber optic	Yes
+CUST00503	19	28	39.7	1104.721362	Month-to-month	Credit card	No	DSL	No
+CUST00048	64	16	137.44	2010.378826	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00033	75	12	108.32	1382.589847	Two year	Bank transfer	No	DSL	Yes
+CUST00780	36	56	53.88	2918.121559	Two year	Credit card	Yes	No	No
+CUST00840	59	29	83.49	2457.325833	Two year	Bank transfer	No	DSL	No
+CUST00201	47	6	113.9	685.4207092	Two year	Bank transfer	No	Fiber optic	Yes
+CUST00135	26	1	80.94	81.15466105	Two year	Electronic check	No	Fiber optic	Yes
+CUST00028	19	4	108.68	400.5703438	Two year	Bank transfer	No	No	Yes
+CUST00881	45	55	22.54	1220.728129	One year	Credit card	Yes	Fiber optic	No
+CUST00231	28	17	125.34	2110.480809	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00490	59	13	81.09	1103.429855	One year	Mailed check	No	No	Yes
+CUST00773	79	56	82.56	4937.765893	Month-to-month	Mailed check	No	No	No
+CUST00379	36	18	99.66	1810.018562	Two year	Bank transfer	No	DSL	Yes
+CUST00289	40	5	94.56	433.7261961	Month-to-month	Mailed check	No	No	Yes
+CUST00419	38	3	82.94	235.7245771	One year	Credit card	No	DSL	Yes
+CUST00675	22	47	39.21	1719.373394	Two year	Credit card	No	Fiber optic	No
+CUST00392	25	11	113.55	1155.275089	One year	Mailed check	No	No	Yes
+CUST00593	36	47	31.54	1442.62236	Month-to-month	Bank transfer	Yes	No	No
+CUST00499	49	13	92.72	1140.12435	Two year	Bank transfer	No	DSL	Yes
+CUST00139	25	4	132.02	498.3283015	One year	Credit card	No	Fiber optic	Yes
+CUST00063	21	14	139.35	1777.150183	Two year	Electronic check	No	Fiber optic	Yes
+CUST00472	41	11	118.19	1174.67553	Two year	Bank transfer	Yes	No	Yes
+CUST00648	33	40	29.26	1077.41599	Two year	Electronic check	Yes	Fiber optic	No
+CUST00129	46	10	148.72	1389.698418	Month-to-month	Credit card	No	DSL	Yes
+CUST00977	78	43	22.18	940.5752843	Two year	Mailed check	No	No	No
+CUST00521	67	59	61.89	3659.192968	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00839	57	21	37.46	730.1136077	Two year	Bank transfer	Yes	Fiber optic	No
+CUST00963	44	27	99.15	2636.778249	Two year	Mailed check	No	DSL	No
+CUST00065	77	19	111.53	2052.000944	One year	Bank transfer	Yes	DSL	Yes
+CUST00813	70	46	65.95	2841.620461	One year	Electronic check	No	DSL	No
+CUST00015	41	18	115.94	1881.083219	Two year	Mailed check	No	No	Yes
+CUST00157	25	6	149.25	889.5928999	Two year	Bank transfer	No	Fiber optic	Yes
+CUST00041	59	15	96.21	1496.734664	Month-to-month	Credit card	No	No	Yes
+CUST00493	75	10	145.98	1379.88393	Month-to-month	Electronic check	No	DSL	Yes
+CUST00380	65	5	83	384.4399669	Month-to-month	Credit card	No	DSL	Yes
+CUST00188	32	5	111.25	599.3085053	Month-to-month	Mailed check	No	DSL	Yes
+CUST00764	72	41	31.03	1214.985953	One year	Credit card	Yes	Fiber optic	No
+CUST00217	19	10	84.9	802.0694228	Month-to-month	Credit card	No	No	Yes
+CUST00792	48	56	75.1	4505.961378	One year	Bank transfer	Yes	DSL	No
+CUST00053	69	5	131.05	696.8068853	Two year	Credit card	No	Fiber optic	Yes
+CUST00879	30	46	91.82	4180.085991	One year	Mailed check	No	No	No
+CUST00338	24	3	122.59	366.9784752	One year	Bank transfer	No	No	Yes
+CUST00749	66	48	79.61	3605.567754	Month-to-month	Credit card	Yes	Fiber optic	No
+CUST00720	25	22	26.12	526.1750544	One year	Mailed check	Yes	DSL	No
+CUST00725	79	32	91.67	2976.521571	Two year	Bank transfer	Yes	No	No
+CUST00296	19	6	129.46	714.3620803	Month-to-month	Mailed check	Yes	Fiber optic	Yes
+CUST00702	50	29	83.51	2397.220721	Two year	Mailed check	Yes	Fiber optic	No
+CUST00252	26	4	106.21	462.268166	Month-to-month	Credit card	No	DSL	Yes
+CUST00727	68	55	32.66	1958.985283	One year	Bank transfer	Yes	No	No
+CUST00462	45	18	105.86	1806.140577	One year	Mailed check	No	Fiber optic	Yes
+CUST00456	36	9	83.17	767.1105237	Two year	Credit card	No	No	Yes
+CUST00997	35	28	24.14	672.4155257	Month-to-month	Bank transfer	Yes	DSL	No
+CUST00816	56	46	64.58	3193.888059	Two year	Credit card	Yes	Fiber optic	No
+CUST00863	23	53	32.48	1642.746389	One year	Mailed check	Yes	Fiber optic	No
+CUST00270	66	17	104.5	1600.165465	Month-to-month	Bank transfer	No	No	Yes
+CUST00202	54	13	145.05	1758.391708	Month-to-month	Mailed check	No	No	Yes
+CUST00162	72	15	106.55	1550.149963	Month-to-month	Credit card	Yes	No	Yes
+CUST00556	66	20	86.77	1671.44049	One year	Credit card	Yes	No	No
+CUST00730	21	51	48.67	2626.812459	One year	Electronic check	Yes	DSL	No
+CUST00402	52	17	138.2	2434.241846	One year	Bank transfer	No	DSL	Yes
+CUST00703	57	44	93.03	3929.223975	Month-to-month	Bank transfer	No	No	No
+CUST00477	48	13	138.96	1791.21301	One year	Bank transfer	No	Fiber optic	Yes
+CUST00822	40	48	65.26	2879.099396	Month-to-month	Credit card	Yes	Fiber optic	No
+CUST00772	66	26	34.61	971.515212	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00106	65	16	106.13	1845.957237	Two year	Mailed check	No	No	Yes
+CUST00566	25	22	31.17	751.5440953	Month-to-month	Bank transfer	Yes	DSL	No
+CUST00390	28	4	124.24	533.591203	One year	Electronic check	Yes	Fiber optic	Yes
+CUST00002	69	5	86.68	405.1389297	Two year	Electronic check	No	DSL	Yes
+CUST00938	28	39	66.12	2344.637189	Month-to-month	Mailed check	Yes	No	No
+CUST00983	42	39	80.95	3207.30817	One year	Mailed check	Yes	DSL	No
+CUST00562	60	49	82.52	4377.152035	One year	Credit card	No	DSL	No
+CUST00081	64	5	87.26	408.1456798	One year	Bank transfer	No	DSL	Yes
+CUST00206	32	9	83.41	676.6784091	One year	Bank transfer	Yes	DSL	Yes
+CUST00035	78	17	120.67	2176.728307	One year	Electronic check	No	DSL	Yes
+CUST00776	42	54	42.06	2079.000286	Month-to-month	Electronic check	Yes	Fiber optic	No
+CUST00509	57	54	36.34	1928.492034	One year	Mailed check	Yes	No	No
+CUST00428	65	13	109.82	1478.738059	Month-to-month	Bank transfer	Yes	Fiber optic	Yes
+CUST00455	65	2	118.36	224.2589449	Month-to-month	Mailed check	No	DSL	Yes
+CUST00367	18	13	116.48	1388.243894	Month-to-month	Mailed check	No	DSL	Yes
+CUST00092	71	19	104.51	2092.925691	Two year	Credit card	No	Fiber optic	Yes
+CUST00340	58	3	127.42	392.2121456	Two year	Credit card	No	No	Yes
+CUST00898	42	58	21.34	1358.642888	Two year	Electronic check	No	No	No
+CUST00565	50	46	74.34	3313.157905	Month-to-month	Credit card	No	DSL	No
+CUST00346	18	10	133.1	1214.341147	One year	Bank transfer	Yes	Fiber optic	Yes
+CUST00777	39	45	26.13	1230.962098	Month-to-month	Bank transfer	Yes	Fiber optic	No
+CUST00242	79	2	81.02	162.7443366	Two year	Mailed check	No	DSL	Yes
+CUST00014	28	13	94.51	1158.156749	One year	Mailed check	No	Fiber optic	Yes
+CUST00316	39	19	129.93	2607.769181	Month-to-month	Electronic check	No	Fiber optic	Yes
+CUST00601	79	33	53.66	1665.863228	Month-to-month	Electronic check	No	DSL	No
+CUST00388	41	17	107.06	1732.899885	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00274	79	14	126.37	1625.001934	Month-to-month	Bank transfer	No	No	Yes
+CUST00167	52	12	104.29	1226.308302	One year	Bank transfer	No	Fiber optic	Yes
+CUST00841	26	36	68.13	2412.911866	Two year	Bank transfer	No	DSL	No
+CUST00993	73	37	94.97	3524.123706	One year	Credit card	Yes	No	No
+CUST00647	29	48	44.94	2247.2722	Month-to-month	Electronic check	Yes	DSL	No
+CUST00819	75	39	39.98	1685.860138	Two year	Electronic check	Yes	DSL	No
+CUST00485	40	12	107.35	1194.865813	One year	Credit card	No	No	Yes
+CUST00981	22	46	72.33	3030.627181	Two year	Electronic check	Yes	DSL	No
+CUST00505	59	37	69.54	2325.218099	Month-to-month	Credit card	No	Fiber optic	No
+CUST00832	61	23	46.57	994.7658589	One year	Mailed check	Yes	DSL	No
+CUST00244	69	11	91.11	1033.869711	One year	Credit card	No	Fiber optic	Yes
+CUST00567	70	20	94.25	1970.758858	Month-to-month	Electronic check	Yes	No	No
+CUST00876	79	20	87.59	1852.180142	Month-to-month	Mailed check	Yes	Fiber optic	No
+CUST00563	77	45	37.92	1618.932739	One year	Credit card	Yes	No	No
+CUST00687	37	39	39.13	1466.82638	One year	Electronic check	Yes	DSL	No
+CUST00190	59	7	98.08	684.2441845	Month-to-month	Electronic check	No	DSL	Yes
+CUST00783	29	42	60.98	2337.408404	Two year	Mailed check	Yes	DSL	No
+CUST00700	20	29	81.89	2427.598	Month-to-month	Electronic check	Yes	Fiber optic	No
+CUST00476	70	4	122.38	536.8795947	Two year	Mailed check	No	Fiber optic	Yes
+CUST00682	19	30	23.52	685.9569867	Two year	Mailed check	Yes	No	No
+CUST00511	26	24	75.47	1902.875515	Two year	Electronic check	Yes	Fiber optic	No
+CUST00059	38	19	110.32	2096.094218	Two year	Mailed check	No	Fiber optic	Yes
+CUST00475	63	1	134.2	124.2104699	One year	Mailed check	Yes	No	Yes
+CUST00561	71	20	71.86	1460.838332	Month-to-month	Electronic check	Yes	Fiber optic	No
+CUST00857	34	36	38.52	1331.216329	Month-to-month	Bank transfer	Yes	DSL	No
+CUST00748	52	41	74.51	2770.438741	Two year	Mailed check	Yes	Fiber optic	No
+CUST00253	79	3	139.68	430.3481908	Two year	Bank transfer	Yes	No	Yes
+CUST00022	70	13	117.92	1643.005787	One year	Electronic check	No	DSL	Yes
+CUST00314	51	15	133.08	1934.225882	One year	Electronic check	No	DSL	Yes
+CUST00460	34	2	101.48	198.5068769	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00161	65	11	109.05	1293.360012	Month-to-month	Electronic check	No	DSL	Yes
+CUST00277	20	4	129.89	552.147719	Two year	Bank transfer	No	Fiber optic	Yes
+CUST00956	77	53	95.21	5263.065978	Month-to-month	Mailed check	Yes	DSL	No
+CUST00192	30	19	107.03	1931.402249	Month-to-month	Bank transfer	No	DSL	Yes
+CUST00386	73	17	121.2	2229.442079	Two year	Bank transfer	No	No	Yes
+CUST00806	53	48	23.74	1060.759969	One year	Mailed check	Yes	DSL	No
+CUST00414	53	3	92.98	286.0122737	One year	Credit card	Yes	No	Yes
+CUST00492	71	18	121.98	1988.723405	Two year	Mailed check	No	Fiber optic	Yes
+CUST00344	35	8	140.31	1154.744522	One year	Electronic check	No	Fiber optic	Yes
+CUST00770	47	23	45.57	1001.394553	Month-to-month	Credit card	Yes	Fiber optic	No
+CUST00309	34	19	140.8	2648.27517	One year	Electronic check	No	Fiber optic	Yes
+CUST00662	71	24	55.05	1280.312705	One year	Electronic check	Yes	Fiber optic	No
+CUST00131	62	5	130.7	610.729308	One year	Credit card	No	No	Yes
+CUST00664	53	30	91.94	2825.489483	One year	Electronic check	Yes	Fiber optic	No
+CUST00872	27	40	96.98	4175.551915	Month-to-month	Credit card	Yes	DSL	No
+CUST00100	51	7	132.2	1010.367312	Month-to-month	Bank transfer	Yes	Fiber optic	Yes
+CUST00373	49	8	119.05	893.7981353	One year	Credit card	No	Fiber optic	Yes
+CUST00088	21	5	120.93	630.9368896	Two year	Mailed check	No	DSL	Yes
+CUST00459	66	17	89.36	1569.050244	One year	Mailed check	No	No	Yes
+CUST00331	53	5	111.07	537.9539711	One year	Electronic check	No	Fiber optic	Yes
+CUST00215	39	4	111.55	403.2844126	One year	Bank transfer	No	Fiber optic	Yes
+CUST00467	23	19	147.09	2900.792299	Month-to-month	Credit card	Yes	Fiber optic	Yes
+CUST00122	43	2	110.18	239.9938495	Month-to-month	Credit card	Yes	No	Yes
+CUST00615	65	54	55.53	3077.855608	Two year	Bank transfer	Yes	No	No
+CUST00021	39	11	118.45	1286.087931	Two year	Electronic check	No	DSL	Yes
+CUST00701	18	31	80	2492.476331	Two year	Electronic check	Yes	No	No
+CUST00072	19	13	117.33	1433.659365	Month-to-month	Mailed check	No	Fiber optic	Yes
+CUST00107	32	15	124.57	1962.180859	Month-to-month	Credit card	Yes	No	Yes
+CUST00271	75	12	132.38	1666.850537	Month-to-month	Bank transfer	No	Fiber optic	Yes
+CUST00861	21	45	62.53	2614.357771	Two year	Bank transfer	Yes	Fiber optic	No
+CUST00436	47	11	95.75	1132.871146	Two year	Mailed check	No	Fiber optic	Yes
+CUST00103	53	7	117.01	781.260048	One year	Credit card	No	DSL	Yes
